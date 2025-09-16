@@ -6,4 +6,4 @@ Sur ce site, on trouvera plein de trucs
 >> Le saurais-je un jour
 
 
-[page2](page2)
+[page2](Page2)
