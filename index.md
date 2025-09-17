@@ -12,4 +12,4 @@ Sur ce site, on trouvera plein de trucs
 
 [test lien](https://ent.univ-brest.fr/web/expanded)
 
-[Et la page 3](
+[Et la page 3](Page3.md)
