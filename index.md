@@ -16,8 +16,5 @@ Sur ce site, on trouvera plein de trucs
 
 [Et la page 3](Page3.md)
 
-Try to put a blank line before...
+(https://docs.github.com/fr/pages/quickstart "Je reteste avec un lien")
 
----
-
-...and after a horizontal rule.
