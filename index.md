@@ -1,5 +1,7 @@
 # Mon site mais je sais pas encore de quoi il s'agira
 
+---
+
 Sur ce site, on trouvera plein de trucs
 
 > je sais pas encore quoi
@@ -13,3 +15,9 @@ Sur ce site, on trouvera plein de trucs
 [test lien](https://ent.univ-brest.fr/web/expanded)
 
 [Et la page 3](Page3.md)
+
+Try to put a blank line before...
+
+---
+
+...and after a horizontal rule.
