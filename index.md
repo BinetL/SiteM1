@@ -6,12 +6,12 @@ Sur ce site, on trouvera plein de trucs
 >> Le saurais-je un jour
 
 
-[page2](Page2)
+[page2](Page2.md)
 
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTj-5yUuepAKXdNxmCe-peJpyJtm0zpLqie93S1TiOIV2dyMw5Ji0KFLqF7FkCI8ijK7u3xm3cIzOJfxf4ttIW31iZzBc-MdxHC0-rppcI" alt="Red Fox/Coyote – Delaware Council of Wildlife"/>
 
 [test lien](https://ent.univ-brest.fr/web/expanded)
 
-[la page de branche 2](branch2page)
+[la page de branche 2](branch2page.md)
 
 On verra bien si ça marche
