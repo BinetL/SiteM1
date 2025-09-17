@@ -1,1 +1,3 @@
-theme: cayman
+theme: jekyll-theme-cayman
+title: SiteM1
+description: Un site personnel créé avec GitHub Pages et Jekyll.
