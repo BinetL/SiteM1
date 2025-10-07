@@ -12,7 +12,11 @@ Ceci est le 1er paragraphe.
 Ceci est le deuxième.
 
 Ceci est le troisième.  
-Avec un retour à la ligne
+Avec un retour à la ligne.
+
+Et maintenant, du texte en **gras**.  
+Et de *l'italique*.
+Les deux ***en même temps***.
 
 [page2](Page2.md)
 
