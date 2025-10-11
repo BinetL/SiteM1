@@ -1,22 +1,19 @@
-# Mon site mais je sais pas encore de quoi il s'agira
+# Le stylo plume de poche Platinum
 
----
+Sur ce site, on trouvera des trucs sur ce stylo.
 
-Sur ce site, on trouvera plein de trucs
+> Des informations.
+>> Peut-être même des photos.
 
-> je sais pas encore quoi
->> Le saurais-je un jour
+Ce stylo a donc été produit par la marque japonaise Platinum.
 
-Ceci est le 1er paragraphe.
+C'est une marque de stylos très connue.
 
-Ceci est le deuxième.
-
-Ceci est le troisième.  
-Avec un retour à la ligne.
-
-Et maintenant, du texte en **gras**.  
-Et de *l'italique*.
-Les deux ***en même temps***.
+Il a été produit dans les années 1960 et 1970.  
+Et à ma connaissance il n'a pas été reproduit depuis.  
+Un des avantages de ce stylo, c'est sa plume en **or 14k**.  
+Sur le côté e la plume, on peut voir écrit *soft*.  
+Elle a donc une ***bonne souplesse***.
 
 [page2](Page2.md)
 
