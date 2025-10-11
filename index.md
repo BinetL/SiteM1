@@ -21,4 +21,11 @@ On peut le voir sur cette photo :
 <img src="https://i.ibb.co/gZFZ7V8S/IMG20251011140642.jpg"/>  
 >La marque *soft* sur la plume
 
+Ce que je préfère dans ce stylo :  
+1. Sa plume, on sent un *feedback* en écrivant
+2. Sa forme, il est assez petit et se range facilement dans une poche
+3. Sa prise en main
+   - on peut écrire avec quand il est posté
+   - Mais également en gardant le capuchon de côté
+
 Pour voir des modèles alternatifs de ce stylo, vous pouvez cliquer [ici](Alternatives.md "Les modèles alternatifs").
