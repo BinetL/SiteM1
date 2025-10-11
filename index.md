@@ -15,9 +15,12 @@ Un des avantages de ce stylo, c'est sa plume en **or 14k**.
 Sur le côté e la plume, on peut voir écrit *soft*.  
 Elle a donc une ***bonne souplesse***.
 
-[page2](Page2.md)
-
+On peut le voir sur cette photo : 
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTj-5yUuepAKXdNxmCe-peJpyJtm0zpLqie93S1TiOIV2dyMw5Ji0KFLqF7FkCI8ijK7u3xm3cIzOJfxf4ttIW31iZzBc-MdxHC0-rppcI" alt="Red Fox/Coyote – Delaware Council of Wildlife"/>
+
+
+Pour voir des modèles altéranitifs de ce stylo, vous pouvez cliquer [ici](Page2.md)
+
 
 [test lien](https://ent.univ-brest.fr/web/expanded)
 
