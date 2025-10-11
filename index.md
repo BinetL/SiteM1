@@ -18,6 +18,8 @@ C'est une marque de stylos très connue.
   >> Elle a donc une ***bonne souplesse***.
 
 On peut le voir sur cette photo :   
+<img src="https://i.ibb.co/gZFZ7V8S/IMG20251011140642.jpg"/><img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/344013a7-6263-4010-aa0e-426aee3faa0d" />
+
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTj-5yUuepAKXdNxmCe-peJpyJtm0zpLqie93S1TiOIV2dyMw5Ji0KFLqF7FkCI8ijK7u3xm3cIzOJfxf4ttIW31iZzBc-MdxHC0-rppcI" alt="Red Fox/Coyote – Delaware Council of Wildlife"/>
 >La marque *soft* sur la plume
 
