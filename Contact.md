@@ -1,4 +1,6 @@
-# Liens utiles
+---
+layout: default
+title: Liens utiles
 ---
 
 Pour me contacter, vous pouvez envoyer un mail à :  
