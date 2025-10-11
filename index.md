@@ -1,4 +1,8 @@
 ---
+layout: default
+title: Le stylo plume de poche Platinum
+---
+
 # Le stylo plume de poche Platinum
 
 
