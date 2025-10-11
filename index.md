@@ -32,4 +32,4 @@ Ce que je préfère dans ce stylo :
    - on peut écrire avec quand il est posté
    - Mais également en gardant le capuchon de côté
 
-Pour voir des modèles alternatifs de ce stylo, vous pouvez cliquer [ici](Alternatives.md "Les modèles alternatifs").
+Pour voir des modèles alternatifs de ce stylo, vous pouvez cliquer [ici](Alternatives.md).
