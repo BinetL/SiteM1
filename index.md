@@ -1,6 +1,6 @@
 ---
 # Le stylo plume de poche Platinum
----
+
 
 Sur ce site, on trouvera des trucs sur ce stylo.
 
