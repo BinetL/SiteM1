@@ -21,6 +21,4 @@ On peut le voir sur cette photo :
 <img src="https://i.ibb.co/gZFZ7V8S/IMG20251011140642.jpg"/>  
 >La marque *soft* sur la plume
 
-Pour voir des modèles alternatifs de ce stylo, vous pouvez cliquer [ici](Alternatives.md).
-
-
+Pour voir des modèles alternatifs de ce stylo, vous pouvez cliquer [ici](Alternatives.md "Les modèles alternatifs").
