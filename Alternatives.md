@@ -3,7 +3,6 @@ layout: default
 title: Les modèles alternatifs
 ---
 
-# Les modèles alternatifs
 
 Il y a eu un certain nombre de modèles alternatifs de ce stylo.
 
